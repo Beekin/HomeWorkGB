@@ -1,0 +1,15 @@
+E:\Hw\HomeWorkGB\Task008(1-N)\bin\Debug\net6.0\Task008(1-N).exe
+E:\Hw\HomeWorkGB\Task008(1-N)\bin\Debug\net6.0\Task008(1-N).deps.json
+E:\Hw\HomeWorkGB\Task008(1-N)\bin\Debug\net6.0\Task008(1-N).runtimeconfig.json
+E:\Hw\HomeWorkGB\Task008(1-N)\bin\Debug\net6.0\Task008(1-N).dll
+E:\Hw\HomeWorkGB\Task008(1-N)\bin\Debug\net6.0\Task008(1-N).pdb
+E:\Hw\HomeWorkGB\Task008(1-N)\obj\Debug\net6.0\Task008(1-N).csproj.AssemblyReference.cache
+E:\Hw\HomeWorkGB\Task008(1-N)\obj\Debug\net6.0\Task008(1-N).GeneratedMSBuildEditorConfig.editorconfig
+E:\Hw\HomeWorkGB\Task008(1-N)\obj\Debug\net6.0\Task008(1-N).AssemblyInfoInputs.cache
+E:\Hw\HomeWorkGB\Task008(1-N)\obj\Debug\net6.0\Task008(1-N).AssemblyInfo.cs
+E:\Hw\HomeWorkGB\Task008(1-N)\obj\Debug\net6.0\Task008(1-N).csproj.CoreCompileInputs.cache
+E:\Hw\HomeWorkGB\Task008(1-N)\obj\Debug\net6.0\Task008(1-N).dll
+E:\Hw\HomeWorkGB\Task008(1-N)\obj\Debug\net6.0\refint\Task008(1-N).dll
+E:\Hw\HomeWorkGB\Task008(1-N)\obj\Debug\net6.0\Task008(1-N).pdb
+E:\Hw\HomeWorkGB\Task008(1-N)\obj\Debug\net6.0\Task008(1-N).genruntimeconfig.cache
+E:\Hw\HomeWorkGB\Task008(1-N)\obj\Debug\net6.0\ref\Task008(1-N).dll
