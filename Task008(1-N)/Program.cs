@@ -12,6 +12,7 @@ while (userInput >= i)
  Console.Write(i + ", ");
  }
 
+
 i++;
 
 }
