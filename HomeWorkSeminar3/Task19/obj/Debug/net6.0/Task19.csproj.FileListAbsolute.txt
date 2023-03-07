@@ -1,0 +1,15 @@
+E:\Hw\HomeWorkGB2\HomeWorkGB\HomeWorkSeminar3\Task19\obj\Debug\net6.0\Task19.csproj.AssemblyReference.cache
+E:\Hw\HomeWorkGB2\HomeWorkGB\HomeWorkSeminar3\Task19\obj\Debug\net6.0\Task19.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hw\HomeWorkGB2\HomeWorkGB\HomeWorkSeminar3\Task19\obj\Debug\net6.0\Task19.AssemblyInfoInputs.cache
+E:\Hw\HomeWorkGB2\HomeWorkGB\HomeWorkSeminar3\Task19\obj\Debug\net6.0\Task19.AssemblyInfo.cs
+E:\Hw\HomeWorkGB2\HomeWorkGB\HomeWorkSeminar3\Task19\obj\Debug\net6.0\Task19.csproj.CoreCompileInputs.cache
+E:\Hw\HomeWorkGB2\HomeWorkGB\HomeWorkSeminar3\Task19\bin\Debug\net6.0\Task19.exe
+E:\Hw\HomeWorkGB2\HomeWorkGB\HomeWorkSeminar3\Task19\bin\Debug\net6.0\Task19.deps.json
+E:\Hw\HomeWorkGB2\HomeWorkGB\HomeWorkSeminar3\Task19\bin\Debug\net6.0\Task19.runtimeconfig.json
+E:\Hw\HomeWorkGB2\HomeWorkGB\HomeWorkSeminar3\Task19\bin\Debug\net6.0\Task19.dll
+E:\Hw\HomeWorkGB2\HomeWorkGB\HomeWorkSeminar3\Task19\bin\Debug\net6.0\Task19.pdb
+E:\Hw\HomeWorkGB2\HomeWorkGB\HomeWorkSeminar3\Task19\obj\Debug\net6.0\Task19.dll
+E:\Hw\HomeWorkGB2\HomeWorkGB\HomeWorkSeminar3\Task19\obj\Debug\net6.0\refint\Task19.dll
+E:\Hw\HomeWorkGB2\HomeWorkGB\HomeWorkSeminar3\Task19\obj\Debug\net6.0\Task19.pdb
+E:\Hw\HomeWorkGB2\HomeWorkGB\HomeWorkSeminar3\Task19\obj\Debug\net6.0\Task19.genruntimeconfig.cache
+E:\Hw\HomeWorkGB2\HomeWorkGB\HomeWorkSeminar3\Task19\obj\Debug\net6.0\ref\Task19.dll
